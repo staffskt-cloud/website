@@ -1,0 +1,210 @@
+Sl.No	Name	Father Name	Decipline	Contact No	Matric Marks	Test Marks
+1	Noman Ijaz	Muhammad Ijaz Khan	Computer Science	03491995978	857	85
+2	Hamid Ullah	Saeed Ullah	Pre-Medical	03337333262	1062	80
+3	Masood Khan	Aslam Khan	Pre-Medical	03444943707	953	80
+4	Muhammad Talha	Sultan Muhammad	Pre-Engineering	03441887503	914	80
+5	Muhammad Zeshan	Said Alam	Computer Science	03131560393	1007	80
+6	Yahya Usman	Muhammad Nabi	Pre-Medical	03341911705	1137	80
+7	Sahil Hussain	Ghulam Hussain	Pre-Medical	03418511767	925	78
+8	Saad Ahmad Zaman	Gul Zameen	Pre-Medical	03109650957	804	77
+9	Muhammad Huzaifa	Maaz Ullah Khan	Computer Science	03426927642	971	77
+10	Farhan Badshah	Ameer Badshah	Computer Science	03469347705	863	77
+11	Ihsan Ali	Fazl E Subhan 	Pre-Medical	03401995062	862	75
+12	Hammad Ullah	Zakir Ullah	Computer Science	03114720245	938	75
+13	Muhammad Noor	Noor Muhammad 	Pre-Medical	03465002153	1123	74
+14	Muhammad Hamza	Muhammad Sahid	Pre-Medical	03486235497	905	73
+15	Hamza Zaman	Sher Zaman 	Pre-Medical	03118381841	1115	72
+16	Noman Ghani	Shahid Parwez	Pre-Medical	03271620251	985	72
+17	Abdur Rahman	Shahid Ali	Pre-Medical	03355185806	1113	70
+18	Saadat Shah	Javed Muhammad	Pre-Medical	03347275463	1061	69
+19	Tahseen Ullah	Aman Ullah	Computer Science	03318590914	924	69
+20	Hamza Khan	Imtiaz Khan	Computer Science	03419499320	1104	68
+21	Abdul Basit	Burhan Ud Din	Pre-Medical	03339493077	1008	67
+22	Muhsin Ali	Muhammad Ali	Pre-Medical	03414141110	1115	66
+23	Muhammad Alyan	Muhammad Iqbal Khan	Pre-Medical	03458980790	1108	66
+24	Ameer Talal	Ajmal Khan	Pre-Engineering	03485063705	1121	66
+25	Sudais Ahmad	Javed Iqbal	Pre-Medical	03469885654	1060	65
+26	Nasar Amin	Muhammad Amin	Pre-Medical	03469013373	1086	64
+27	Sanan Ahmad	Riaz Ahmad	Pre-Medical	03418889440	924	63
+28	Kaleem Ullah	Azmat Ullah	Pre-Engineering	03452691988	1021	62
+29	Hasnain Ali	Nazar Ali Khan	Pre-Medical	03459513638	1092	61
+30	Abdul Rehman	Bakhtiar Quddoos 	Pre-Medical	03028349052	1036	61
+31	Ali Afzal	Wajid Afzal	Pre-Medical	03451151747	895	61
+32	Imad Ali	Hazrat Ali	Computer Science	03163514801	991	61
+33	Muhammad Fahad Jan	Hussain Rahman	Computer Science	03339040497	1004	61
+34	Muhammad Shayan	Yousaf Khan	Pre-Engineering	03241284904	1067	61
+35	Shah Faisal	Shah Khalid	Pre-Medical	03448015360	1035	60
+36	Salar Sikandar	Muhammad Alam	Pre-Medical	03339495022	1099	60
+37	Abdullah Majid	Majid Khan	Pre-Medical	03339850984	948	60
+38	Muhammad Atif Javed	Javed Akhtar	Pre-Engineering	03489719634	1018	60
+39	Abbas Naved	Naved Zafar	Computer Science	03443363762	1049	60
+40	Fazal Hasnain	Fazal Subhan 	Computer Science	03120990917	965	60
+41	Alishan	Niamat Khan	Pre-Medical	03241299893	1098	59
+42	Asad Ullah	Khushhal Khan	Pre-Medical	03452388022	1018	59
+43	Saqib Nisar	Nisar Muhammad	Pre-Medical	03159822746	973	58
+44	Zain Ul Abideen	Khalid Khan	Pre-Medical	03119585766	998	58
+45	Abdullah Riyan	Nigar Khan	Pre-Medical	03415109741	1013	58
+46	Zia Ur Rahman	Amir Alam	Pre-Medical	03489494797	1068	58
+47	Munsif Alam	Sher Alam	Computer Science	03160190524	1097	58
+48	Ahmad Hassan Khan	Amir Hassan Khan	Pre-Medical	03218180662	960	57
+49	Hubaib Ahmad	Ikram Ullah Khan	Pre-Engineering	03179932852	1062	57
+50	Muhammad Saeed	Fida Muhamnmad	Computer Science	03255893352	1026	57
+51	Humam Khan	Abdul Ghaffar Khan	Computer Science	03340966067	1027	57
+52	Saad Muhammad	Muhammad Iqbad 	Computer Science	03370666299	936	57
+53	Hamza Khan	Zia Ullah	Pre-Medical	03419646159	1027	57
+54	Zulkifal Ashraf	Muhammad Younas	Pre-Medical	03118883883	1127	57
+55	Muhammad Ilyas	Muhammad Ayaz	Pre-Medical	03142053028	848	56
+56	Mehmood Ahmad Khan	Ayaz Ahmad	Pre-Medical	03449801654	1009	56
+57	Muhamamd Yahya	Maaz Ullah Khan	Pre-Medical	03351494019	1109	54
+58	Saad Ali	Amjad Ali	Computer Science	03474646772	836	54
+59	Abdul Raheem	Abdul Nasir	Pre-Medical	03355657686	1017	53
+60	Muhammad Awais	Amjad Ali	Pre-Medical	03449148971	1008	53
+61	Bilawal Hassan	Jamshed Hassan	Pre-Engineering	03005715509	1023	53
+62	Fida Hussain	Zawar Hussain	Pre-Engineering	03140936754	1057	53
+63	Muhammad Karim	Asghar Shah	Pre-Medical	03491285791	957	52
+64	Ubaid Ullah	Khalid Khan	Computer Science	03179930262	852	52
+65	Waleed Khan	Barkat Shah	Pre-Medical	03428604163	1041	51
+66	Bilal Wakeel	Abdul Wakeel	Pre-Medical	03461288305	1065	51
+67	Muhammad Saad	Javed Khan	Computer Science	03184884847	1052	51
+68	Muhammad Saud	Muhammad Riaz	Computer Science	03115603289	1086	51
+69	Sudais Bacha	Fazal Bacha	Computer Science	03143327634	958	51
+70	Muhammad Abdullah	Momin Sher	Pre-Medical	03155251471	1016	51
+71	Bilal Nasar	Nasar Khan	Computer Science	03288739506	1076	51
+72	Muhammad Azhan	Mian Ghafoor 	Pre-Medical	03348415686	1100	50
+73	Muhammad Sohaib	Parwez Khan	Pre-Medical	03705733418	1090	50
+74	Abdullah Saddiq	Muhammad Sadiq	Pre-Engineering	03497053303	1022	50
+75	Junaid Khan	Jamshed Khan	Computer Science	03444166302	913	50
+76	Muhammad Abbas Khan	Naseeb Ur Rahman	Computer Science	03431875521	943	50
+77	Shahnam Ahmad	Yasir Khan	Pre-Medical	03018362000	1071	49
+78	Nofal Iqbal	Muhammad Iqbal 	Pre-Engineering	03446691377	1104	49
+79	Safi Ullah	Muhammad Sameen Khan	Pre-Medical	03090591280	1082	48
+80	Muhammad Shahab	Muhammad Zada	Computer Science	03449699823	891	48
+81	Wisal Khan	Dawood Khan	Pre-Medical	03456268166	1011	48
+82	Abdur Rahman	Ameer Alam Khan	Computer Science	03009003438	989	48
+83	Daniyal 	Niaz Muhammad	Pre-Medical	03349300893	1040	47
+84	Muhammad Shaheer Badshah	Wazir Shah	Computer Science	03469203567	1002	47
+85	Salman Khan	Ziarat Khan	Computer Science	03279883552	723	47
+86	Muhammad Raees	Qabil Khan	Computer Science	03091711376	1048	46
+87	Muhamamd Ahmad Yaqoob	Fayaz Ahmad	Pre-Medical	03305571915	899	46
+88	Muhammad Hubaib	Ghufran Ullah	Pre-Medical	03460513865	824	46
+89	Najeeb Khan	Sher Khan	Computer Science	03499313393	983	46
+90	Ameer Maviya	Zahir Gul	Computer Science	03444908721	1058	46
+91	Fajar Kaleem	Muhammad Kaleem	Pre-Medical	03038451915	924	45
+92	Hasnain Khan	Umara Khan	Pre-Medical	03498925311	998	45
+93	Muhammad Abdullah	Hasham Khan	Pre-Medical	03358030648	1092	45
+94	Hamza Khan	Alam Zeb	Pre-Engineering	03440911149	963	45
+95	Khizar Hayat Khan	Muhammad Khan	Pre-Medical	03429808234	1007	45
+96	Muhammad Saad Ghaffar	Mir Ghaffar Khan	Computer Science	03440988027	1049	45
+97	Huzaifa Baig	Afzal Khan	Pre-Medical	03185752081	822	44
+98	Muhammad Asif	Muhammad Naeem	Pre-Engineering	00340982443	1013	44
+99	Muhammad Abdullah	Khan Zeb	Computer Science	03486426995	1036	44
+100	Sikandar Salar	Fazal Subhan	Pre-Medical	03148443509	958	44
+101	Muhammad Riyan	Jehangir Khan	Pre-Medical	03160991982	955	43
+102	Muhammad Adil	Bakht Zada	Pre-Medical	03423466796	1003	43
+103	Abdur Rahman	Muhammad Ghani	Pre-Medical	03185377907	763	43
+104	Jalal Khan	Faiz Ur Rahman	Computer Science	03187837072	990	43
+105	Sufyan Ahmad	Bakht Rawan	Computer Science	03709580161	941	43
+106	Muhammad Sharim Hayat	Muhammad Hayat	Pre-Engineering	03446691377	1000	43
+107	Yasir Ahmad	Zubair Ahmad	Pre-Medical	03189276124	992	42
+108	Muhammad Atif Khan	Mian Shaukat Said	Pre-Medical	03495143771	980	42
+109	Waqar Ahmad	Sher Muhammad Khan	Pre-Medical	03159899064	1103	42
+110	Bilal Khan	Bacha Rahman	Pre-Medical	03499740216	1113	42
+111	Shah Faisal	Muhammad Dost Khan	Pre-Medical	03199094978	961	41
+112	Ali Ahmad	Ibrahim	Pre-Engineering	03339492982	1077	41
+113	Muhammad Daniyal	Jehangir Khan	Pre-Medical	03005715655	969	40
+114	Muhammad Umar	Muhammad Ismail	Pre-Medical	03429358478	1062	40
+115	Muhammad Habib	Adan 	Pre-Medical	03470922047	963	40
+116	Ibad Ahmad	Abdul Wahab	Pre-Medical	03360534384	850	40
+117	Khubaib Khan	Abdul Naved	Computer Science	03270945997	947	40
+118	Abdur Rahman Sudais	Muhammad Naeem Khan	Pre-Engineering	03405441505	1041	40
+119	Mushtaq Ahmad	Shafiq Ahmad	Pre-Medical	03328593910	888	40
+120	Amir Hamza	Nawab Ali	Pre-Medical	03185469896	879	39
+121	Wali Jan	Zafar Ali	Pre-Medical	03138850679	1027	39
+122	Muhammad Faraz Ahmad	Fawad Ahmad	Computer Science	03145662124	827	39
+123	Abdul Rahman	Fazal Raheem 	Pre-Medical	03462442918	938	38
+124	Abdullah Ibrahim	Muhammad Ibrahim Khan	Pre-Medical	03329855199	945	38
+125	Zoraiz Khan	Shawkat Ayaz	Pre-Engineering	03009301266	1068	38
+126	Sohab Ahmad	Gul Sakheed Shah	Pre-Medical	03115606832	971	37
+127	Muhammad Zohaib	Momin Khan	Computer Science	03359765350	931	37
+128	Najm Ul Hassan	Fazal Ur Rahman	Computer Science	03701912705	1051	37
+129	Muhammad Aqib	Sardar Muhammad	Pre-Engineering	03439169509	1021	37
+130	Abubakkar Siddique	Parwez Khan	Pre-Medical	03358046944	995	36
+131	Muhammad Anas	Said Nawab	Pre-Medical	03018396424	995	36
+132	Muhammad Talha 	Ajmal Khan	Computer Science	03024455599	1086	36
+133	Muhammad Arsalan Khan	Dost Muhammad	Pre-Engineering	03458319457	998	36
+134	Abubakkar Zia	Zia Ullah Khan	Computer Science	03280545853	853	36
+135	Mustafa Saeed	Sardar Dawood	Pre-Engineering	03701513242	1012	36
+136	Shah Sawar Khan	Inayat Ur Rahman	Pre-Medical	03159520145	1020	35
+137	Abdullah Ahmad	Ahmad Ali	Pre-Medical	03437029010	936	35
+138	Waleed Ahmad	Khan Muhammad	Computer Science	03405945845	1000	35
+139	Ahmad Shuraim	Khalid Khan	Computer Science	03149801193	953	35
+140	Hassan Shah	Feroz Shah	Computer Science	03459680915	1013	35
+141	Abid Ali Bacha	Rahman Wali Bacha	Pre-Medical	03469336094	925	35
+142	Rehan Ali	Khurshed Ali	Pre-Medical	03189325987	876	35
+143	Mazhar Ali	Abdul Qadir	Pre-Medical	03155404883	968	35
+144	Hamza Khan	Hakeem Khan	Pre-Medical	03449615209	903	34
+145	Muhammad Yaseen	Rawait Khan	Pre-Medical	03400264925	880	34
+146	Kamran Khan	Lajbar Khan	Pre-Medical	03479455637	852	34
+147	Yousaf Ghani 	Wakeel Ghani 	Computer Science	03179963399	839	34
+148	Sufyan	Sahib Zada	Pre-Engineering	03478903497	1041	34
+149	Abdul Aziz	Bacha Sheren	Computer Science	03469158130	809	34
+150	Isa Shah	Inam Shah	Pre-Engineering	03481911131	1024	34
+151	Mujeeb Alam	Muhammad Shoaib	Pre-Medical	03485905265	1009	33
+152	Azan Khan	Anwar Ali Khan	Pre-Medical	03115331010	859	33
+153	Abuzar Khan	Muhammad Nisar Khan	Computer Science	03709543055	896	33
+154	Awais Ur Rahman	Noor Islam	Computer Science	03479273009	935	33
+155	Awais Javed	Javed Khan	Pre-Medical	03305388975	893	33
+156	Zohaib Shah	Hukam Shah	Pre-Medical	03497262098	860	33
+157	Basil Akbar	Akbar Hussain	Pre-Medical	03225538203	845	33
+158	Uzair Nisar	Nisar Ali Khan	Pre-Medical	03409728884	766	32
+159	Zeshan Anwar	Muhammad Anwar Khan	Pre-Medical	03479231061	1002	32
+160	Muhammad Usman Zeb	Sultan Zeb	Pre-Medical	03488399736	987	32
+161	Shahb Ahamd	Alam Zeb	Pre-Medical	03440771382	1007	32
+162	Zain Ul Hassan	Zahid Khan	Computer Science	03038470916	880	32
+163	Muhammad Zeshan	Muhammad Tariq	Pre-Medical	03452431018	994	32
+164	Muhammad Ijaz	Yaqoob Khan	Pre-Medical	03459154095	602	32
+165	Waleed Ur Rahman	Khan Zada	Computer Science	03407606780	953	32
+166	Musa Khan	Fazal Rabbi 	Pre-Medical	03129963533	700	32
+167	Abdul Basit	Liaqat Ali	Computer Science	03453671226	839	32
+168	Sudais Alam	Yousaf Din	Pre-Medical	03138673016	833	32
+169	Muhammad Yaseen	Raham Badshah	Pre-Medical	03448144066	1044	31
+170	Muhammad Ahmad	Muhamamd Karim	Pre-Medical	03400917541	932	31
+171	Hasnain Khan	Sardar Hussain	Pre-Medical	03241299893	779	31
+172	Hammad Khan	Umar Shah	Computer Science	03018950324	1010	31
+173	Sabir Alam	Jan Alam	Computer Science	03479058322	924	31
+174	Yasir Khan	Salim Khan	Pre-Engineering	03439671020	976	31
+175	Arbab Khan	Zain Ul Abideen	Computer Science	03350994530	1068	30
+176	Muhammad Ubaid	Muhammad Iqbal 	Computer Science	03421935173	1000	30
+177	Muhammad Hubaib	Ameer Badshah	Computer Science	03119326919	861	30
+178	Muhammad Sudais	Rafi Ullah	Computer Science	03476094206	914	30
+179	Muhammad Yahya	Inam Ullah	Computer Science	03419011729	890	30
+180	Rizwan Ullah	Muhammad Kamal Khan	Computer Science	03295436086	775	30
+181	Muhammad Isa	Muhammad Ijaz Khan	Computer Science	03480913210	904	30
+182	Muhammad Shehriar	Muhammad Fayaz	Computer Science	03408986769	954	30
+183	Jalal Ahmad	Shakeel Gul	Pre-Medical	03459680566	976	30
+184	Aman Said	Hakim Said	Computer Science	03036633364	930	30
+185	Muhammad Zakria Khan	Fazl E Rahman	Pre-Medical	03408874122	813	30
+186	Muhammad Sudais	Sultan Muhammad	Pre-Medical	03485507257	927	29
+187	Abuzar Ahmad	Kiramat Ullah	Computer Science	03189559877	974	29
+188	Muhammad Younas	Wazir Khan	Pre-Medical	03329109928	854	28
+189	Muhammad Haris	Raheem Shah	Pre-Medical	03100991007	858	28
+190	Muhammad Ismail	Muhammad Ibrahim	Pre-Medical	03128892960	994	28
+191	Hamza Khan	Bahar Ali	Computer Science	03443471922	914	28
+192	Muhammad Asim Khan	Yaqoob Khan	Computer Science	03119560256	1022	28
+193	Umair Ahmad	Said Ahmad	Pre-Medical	03351138761	941	28
+194	Okasha	Khan Muhammad	Pre-Engineering	03326892525	767	28
+195	Muhammad Farhan Ullah	Muhammad Ishaq	Pre-Medical	03400902055	956	27
+196	Salman Farsi	Ajdar Khan	Pre-Medical	03459293804	1033	27
+197	Muhammad Awais	Fazal Qadar	Pre-Medical	03495946812	993	27
+198	Imad Ali	Ahmad Shah	Computer Science	03092448452	891	27
+199	Muhammad Abdullah	Yaqoob Khan	Pre-Medical	03439702742	950	27
+200	Huzaifa Shareef	Khan Shareef	Computer Science	03418708365	998	25
+201	Muhammad Adnan	Abdur Rahman	Pre-Engineering	03025577402	932	24
+202	Muhammad Anas	Farman Ullah	Pre-Engineering	03413344487	841	24
+203	Sufyan Muhammad	Muhammad Haneef	Pre-Medical	03349329561	981	24
+204	Ubaid Ur Rahman	Saif Ur Rahman	Computer Science	03704165422	836	23
+205	Muhammad Saad	Fazal Kabir	Computer Science	03350452682	1056	23
+206	Salman Ghani	Laal Ghani 	Pre-Medical	03159417312		22
+207	Akhtar Ali	Akbar Shah	Computer Science	03419831769	802	21
+208	Adan Jan	Muhammad Nabi	Pre-Medical	03419240630	838	16
+209	Muhammad Ahmad	Abdullah Khan	Pre-Medical	03144346183	1038	7
