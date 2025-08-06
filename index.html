@@ -175,10 +175,11 @@
 
   <script>
     const adminPassword = "orbit1112";
+    const dataFile = "Data.txt";
 
     function getColumns() {
       const cols = localStorage.getItem("columns");
-      return cols ? JSON.parse(cols) : ["Student Name", "Father Name", "Group", "Phone", "Marks"];
+      return cols ? JSON.parse(cols) : ["Sl.No", "Name", "Father Name", "Decipline", "Contact No", "Matric Marks", "Test Marks"];
     }
 
     function saveColumns(cols) {
@@ -269,6 +270,26 @@
       document.getElementById("dataInput").value = "";
     }
 
+    function loadFromFile() {
+      fetch(dataFile)
+        .then(response => response.text())
+        .then(text => {
+          const lines = text.split("\n");
+          const headers = lines[0].split("\t").map(h => h.trim());
+          const rows = lines.slice(1).map(line => line.split("\t").map(cell => cell.trim()));
+          
+          // Only load if no data exists yet
+          if (getData().length === 0) {
+            saveColumns(headers);
+            saveData(rows);
+            renderTable();
+          }
+        })
+        .catch(error => {
+          console.error("Error loading data file:", error);
+        });
+    }
+
     function deleteRow(index) {
       if (!confirm("Are you sure you want to delete this row?")) return;
       const data = getData();
@@ -347,7 +368,11 @@
       });
     });
 
-    renderTable();
+    // Load data from file when page loads
+    window.onload = function() {
+      loadFromFile();
+      renderTable();
+    };
   </script>
 </body>
 </html>
